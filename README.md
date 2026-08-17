@@ -1,2 +1,2 @@
-# Linear-Algebra-in-python-
-This is my practice program of many week in the specific subject linear algebra. I hope i am building and upgrading my self in this .
+# DATA-Analysis-with-python-
+This is my practice program of many weeks of my course. I hope i am building and upgrading my self in this every week gradually .
